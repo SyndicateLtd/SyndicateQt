@@ -1,0 +1,6 @@
+usr/local/bin/syndicate-qt usr/bin
+share/pixmaps/syndicate32.xpm usr/share/pixmaps
+share/pixmaps/syndicate16.xpm usr/share/pixmaps
+share/pixmaps/syndicate128.png usr/share/pixmaps
+debian/syndicate-qt.desktop usr/share/applications
+debian/syndicate-qt.protocol usr/share/kde4/services/

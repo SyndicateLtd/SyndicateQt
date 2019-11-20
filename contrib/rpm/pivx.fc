@@ -1,0 +1,8 @@
+/usr/bin/syndicate-cli		--	gen_context(system_u:object_r:syndicate_exec_t,s0)
+/usr/sbin/syndicated		--	gen_context(system_u:object_r:syndicate_exec_t,s0)
+/usr/lib(64)?/syndicate/syndicated		--	gen_context(system_u:object_r:syndicate_exec_t,s0)
+
+/etc/syndicate(/.*)?		gen_context(system_u:object_r:syndicate_conf_t,s0)
+/var/lib/syndicate(/.*)?		gen_context(system_u:object_r:syndicate_var_lib_t,s0)
+
+(/var)?/run/syndicated(/.*)?   gen_context(system_u:object_r:syndicate_var_run_t,s0)

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=SYNX Core
+Comment=SYNX P2P Cryptocurrency
+Comment[fr]=SYNX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SYNX, eşten eşe kriptografik sanal para birimi
+Exec=syndicate-qt %u
+Terminal=false
+Type=Application
+Icon=syndicate128
+MimeType=x-scheme-handler/syndicate;
+Categories=Office;Finance;
+StartupWMClass=Syndicate-qt

@@ -1,0 +1,3 @@
+usr/local/bin/syndicated usr/bin
+usr/local/bin/syndicate-cli usr/bin
+debian/examples/syndicate.conf etc/syndicate
