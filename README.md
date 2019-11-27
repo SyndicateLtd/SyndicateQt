@@ -11,6 +11,11 @@ Syndicate is an open source crypto-currency focused on fast private transactions
 
 More information at [synx.online](http://synx.online) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=2237538.0)
 
+### License
+
+Syndicate Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.
+
 ### Coin Specs
 <table>
 <tr><td>Algo</td><td>X11</td></tr>
